@@ -41,7 +41,6 @@ def step(row: list[bool]) -> list[bool]:
     """
     pass  # TODO
 
-
 def convert(cell: bool, dead_repr: str, live_repr: str) -> str:
     """
     Convert `cell` into its textual representation, i.e. `dead_repr` if the
